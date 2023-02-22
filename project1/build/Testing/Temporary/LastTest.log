@@ -1,0 +1,29 @@
+Start testing: Feb 22 12:46 MST
+----------------------------------------------------------
+1/1 Testing: ExampleTests
+1/1 Test: ExampleTests
+Command: "/home/nafis/coding_practice/UnitTesting/project1/build/tests/ExampleTests"
+Directory: /home/nafis/coding_practice/UnitTesting/project1/build/tests
+"ExampleTests" start time: Feb 22 12:46 MST
+Output:
+----------------------------------------------------------
+Running main() from /home/nafis/coding_practice/UnitTesting/project1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTests
+[ RUN      ] ExampleTests.MAC
+[       OK ] ExampleTests.MAC (0 ms)
+[----------] 1 test from ExampleTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTests" end time: Feb 22 12:46 MST
+"ExampleTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 22 12:46 MST
